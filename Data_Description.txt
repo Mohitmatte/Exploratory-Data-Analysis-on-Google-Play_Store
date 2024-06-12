@@ -1,0 +1,35 @@
+Google Play Store Dataset Description
+
+This project involves conducting Exploratory Data Analysis (EDA) on the Google Play Store dataset. The dataset contains information about various apps available on the Google Play Store, including details about their ratings, reviews, size, and more.
+
+Dataset Features:
+1. App: Name of the app.
+2. Category: Category to which the app belongs.
+3. Rating: Average user rating of the app.
+4. Reviews: Number of user reviews for the app.
+5. Size: Size of the app.
+6. Installs: Number of user downloads/installations for the app.
+7. Type: Type of the app (Free/Paid).
+8. Price: Price of the app (if paid).
+9. Content Rating: Age group for which the app is appropriate.
+10.Genres: Genres of the app.
+11.Last Updated: Date when the app was last updated.
+12.Current Ver: Current version of the app.
+13.Android Ver: Minimum Android version required to run the app.
+
+
+
+How to Use the Dataset:
+1. Data Cleaning: Handle missing values, duplicates, and outliers.
+2. Data Analysis: Conduct descriptive statistics to understand data distributions.
+3. Visualizations: Create various plots to visualize data trends and relationships.
+4. Category Analysis: Analyze the distribution and performance of apps across different categories.
+5. Rating Analysis: Investigate factors affecting app ratings and user reviews.
+6. Sentiment Analysis: Analyze user review sentiments to gauge overall satisfaction.
+7. Pricing Analysis: Compare free vs. paid apps in terms of popularity and ratings.
+
+
+Tools and Technologies:
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
+
